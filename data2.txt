@@ -1,0 +1,3 @@
+data.txt file is for data store
+data is very important for me
+you should carefully use it.
